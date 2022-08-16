@@ -37,7 +37,7 @@
 <a href="modifyForm.jsp">정보수정</a>
 </td>
 <td width="100" align="center">
-<a href="deleteFrom.jsp">회원탈퇴</a></td>
+<a href="deleteForm.jsp">회원탈퇴</a></td>
 <td width="100" align="center">
 <a href="logOut.jsp">로그아웃</a></td>
 

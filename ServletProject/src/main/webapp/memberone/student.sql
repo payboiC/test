@@ -30,3 +30,5 @@ bunji      varchar2(20),
 constraint zipcode_pk primary key(seq)
 
 )
+
+select * from student;
